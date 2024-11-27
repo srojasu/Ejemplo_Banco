@@ -8,3 +8,5 @@
   Cristian Perez: Clase cuenta.  
 
   Primero se añade al git la clase main y la clase cliente. Luego con esto se crea la clase cuenta y se sube junto a las otras dos clases para tener el ejercicio completo.
+  
+  ![image](https://github.com/user-attachments/assets/ce9ba26c-f542-4aad-8898-9c91fb74a3b6)
